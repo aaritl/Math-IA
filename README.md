@@ -1,2 +1,2 @@
 # Math-IA
-IB Math Investigation
+IB Math Investigation of ETFS
