@@ -1,2 +1,2 @@
 # Math-IA
-IB Math Investigation of ETFs
+IB Math Investigation of ETFs.
